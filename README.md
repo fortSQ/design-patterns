@@ -4,3 +4,6 @@
 - Adapter
 - Strategy
 - Mediator
+
+_And true MVC scheme:_
+![](asset/img/MVC.png)
