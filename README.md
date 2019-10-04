@@ -7,5 +7,7 @@
 
 and other concept:
 
-- MVC graph scheme
 - Signals and slots (Qt-liked)
+- True MVC graph scheme:
+
+![](asset/img/MVC.png)
