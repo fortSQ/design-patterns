@@ -4,3 +4,8 @@
 - Adapter
 - Strategy
 - Mediator
+
+and other concept:
+
+- MVC graph scheme
+- Signals and slots (Qt-liked)
