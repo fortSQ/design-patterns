@@ -6,6 +6,7 @@
 - Mediator
 - Decorator
 - Singleton
+- Bridge
 
 and other concept:
 
