@@ -5,6 +5,7 @@
 - Strategy
 - Mediator
 - Decorator
+- Singleton
 
 and other concept:
 
