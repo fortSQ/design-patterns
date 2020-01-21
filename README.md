@@ -7,6 +7,7 @@
 - Decorator
 - Singleton
 - Bridge
+- Builder
 
 and other concept:
 
