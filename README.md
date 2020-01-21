@@ -8,6 +8,7 @@
 - Singleton
 - Bridge
 - Builder
+- ServiceLocator
 
 and other concept:
 
