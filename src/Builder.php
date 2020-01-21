@@ -2,8 +2,8 @@
 
 class Person
 {
-    private $name;
-    private $age;
+    private string $name;
+    private int $age;
 
     public function setName(string $name): void
     {
@@ -23,8 +23,7 @@ class Person
 
 abstract class BuilderPerson
 {
-    /** @var Person */
-    protected $person;
+    protected Person $person;
 
     public function createPerson(): void
     {
@@ -84,8 +83,7 @@ class BuilderOldPerson extends BuilderPerson
 
 class PersonBuilder
 {
-    /** @var BuilderPerson */
-    private $builderPerson;
+    private BuilderPerson $builderPerson;
 
     public function setBuilderPerson(BuilderPerson $builderPerson): void
     {
