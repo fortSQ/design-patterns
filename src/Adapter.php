@@ -51,6 +51,8 @@ class PlaneAdapter implements IAdapter
     }
 }
 
+/* ------------------------------------------------------------------------------------------------------------------ */
+
 function test(IAdapter $adapter): string
 {
     return $adapter->go();

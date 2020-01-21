@@ -4,6 +4,7 @@
 - Adapter
 - Strategy
 - Mediator
+- Decorator
 
 and other concept:
 
